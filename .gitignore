@@ -1,10 +1,10 @@
-# Compiled class file
-*.class
+# Compiled class file 
+*.class 
  
-# Log file
-*.log
+# Log file 
+*.log 
  
-# BlueJ files
+# BlueJ files 
 *.ctxt 
  
 # Mobile Tools for Java (J2ME) 
@@ -22,7 +22,7 @@
 #Eclipse 
 .metadata 
 bin/ 
-tmp/
+tmp/ 
 *.tmp 
 *.bak 
 *.swp 
@@ -38,6 +38,6 @@ replay_pid*
 /target/ 
 # Eclipse artifacts, including WTP generated manifests 
 .classpath 
-.project
-.springBeans
+.project 
+.springBeans 
 spring-*/src/main/java/META-INF/MANIFEST.MF
